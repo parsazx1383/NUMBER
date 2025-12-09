@@ -32,7 +32,7 @@ warnings.filterwarnings("ignore")
 # ---------------- CONFIG ----------------
 API_ID = 32723346
 API_HASH = "00b5473e6d13906442e223145510676e"
-BOT_TOKEN = "8599566996:AAG26MIEvtBGsoEEcr_jMmwhvPnGWR6u0KY0"
+BOT_TOKEN = "8599566996:AAG26MIEvtBGsoEEcr_jMmwhvPnGWR6u0KY"
 
 CHANNEL_LOG = "@SHAH_SELF"        # لاگ استارت‌ها و لاگ مدیریتی
 CHANNEL_SALES_LOG = "@SHAH_SELF"  # لاگ فروش‌ها و شارژها
@@ -2527,3 +2527,4 @@ async def input_handler(c, m):
 if __name__ == "__main__":
     print("🚀 ربات فروش شماره + شارژ خودکار ترون (نسخه پیشرفته) در حال اجراست...")
     app.run()
+
